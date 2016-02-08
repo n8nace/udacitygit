@@ -1,2 +1,3 @@
-hi 2
-ll
+How can you use the staging area to make sure you have one commit per logical change?
+	-Use git diff and git diff --staged to distinguish between working directory, staging area, and repository
+Q

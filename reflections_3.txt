@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  -I would want to use a remote repositiory when I want to share my work on multiple devices.
+  I've had moments where I have kept my projects local, only to realize I cannot access them elsewhere. 
+  Saving projects to Github allows me to keep working projects remotely and make experimental changes locally.
+   
